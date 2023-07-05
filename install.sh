@@ -7,9 +7,9 @@ sudo apt update
 sudo apt install -y nodejs npm
 
 # Download files using wget
-wget "https://github.com/minthukhant-thedeveloper/raw/blob/main/app.js"
-wget "https://github.com/minthukhant-thedeveloper/raw/blob/main/adduser.sh"
-wget "https://github.com/minthukhant-thedeveloper/raw/blob/main/package.json"
+curl -O "https://raw.githubusercontent.com/minthukhant-thedeveloper/raw/main/app.js"
+curl -O "https://raw.githubusercontent.com/minthukhant-thedeveloper/raw/main/adduser.sh"
+curl -O "https://raw.githubusercontent.com/minthukhant-thedeveloper/raw/main/package.json"
 
 # Install npm dependencies
 npm i
