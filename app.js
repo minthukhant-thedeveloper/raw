@@ -15,12 +15,12 @@ function generateRandomString(length) {
   return randomString;
 }
 
-/* app.use(
+app.use(
   basicAuth({
     users: { 'anonymous': 'mm44' },
     unauthorizedResponse: 'Unauthorized',
   })
-); */
+); 
 
 app.get('/runscript', (req, res) => {
   const scriptPath = './adduser.sh';
