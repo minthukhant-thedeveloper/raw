@@ -1,0 +1,67 @@
+{
+  "app": {
+    "status": true,
+    "version": 1,
+    "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+    "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
+    "admob_native": "ca-app-pub-3940256099942544/2247696110",
+    "admob_appopen": "ca-app-pub-3940256099942544/3419835294",
+    "splash_small": "https://via.placeholder.com/250x250",
+    "splash_large": "https://via.placeholder.com/1080x720",
+    "category": [
+      "news",
+      "tv",
+      "live"
+    ]
+  },
+  "channels": [
+    {
+      "style": 1,
+      "category": "live",
+      "image": "https://images.nightcafe.studio/jobs/eT2MJL1fE8hoibVWwg4j/eT2MJL1fE8hoibVWwg4j--3--LASRH.jpg",
+      "team_1_logo": "https://images.nightcafe.studio/jobs/eT2MJL1fE8hoibVWwg4j/eT2MJL1fE8hoibVWwg4j--3--LASRH.jpg",
+      "team_2_logo": "https://images.nightcafe.studio/jobs/eT2MJL1fE8hoibVWwg4j/eT2MJL1fE8hoibVWwg4j--3--LASRH.jpg",
+      "title": "Dummy Match",
+      "description": "Dummy Description",
+      "overview": "Dummy overview",
+      "datetime": "2023-08-06 11:00 PM",
+      "stream_url": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8"
+    },
+    {
+      "style": 2,
+      "category": "live",
+      "image": "https://images.nightcafe.studio/jobs/eT2MJL1fE8hoibVWwg4j/eT2MJL1fE8hoibVWwg4j--3--LASRH.jpg",
+      "team_1_logo": "https://images.nightcafe.studio/jobs/eT2MJL1fE8hoibVWwg4j/eT2MJL1fE8hoibVWwg4j--3--LASRH.jpg",
+      "team_2_logo": "https://images.nightcafe.studio/jobs/eT2MJL1fE8hoibVWwg4j/eT2MJL1fE8hoibVWwg4j--3--LASRH.jpg",
+      "title": "Dummy Match",
+      "description": "Dummy Description",
+      "overview": "Dummy overview",
+      "datetime": "2023-08-06 11:00 PM",
+      "stream_url": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8"
+    },
+    {
+      "style": 3,
+      "category": "live",
+      "image": "https://images.nightcafe.studio/jobs/eT2MJL1fE8hoibVWwg4j/eT2MJL1fE8hoibVWwg4j--3--LASRH.jpg",
+      "team_1_logo": "https://images.nightcafe.studio/jobs/eT2MJL1fE8hoibVWwg4j/eT2MJL1fE8hoibVWwg4j--3--LASRH.jpg",
+      "team_2_logo": "https://images.nightcafe.studio/jobs/eT2MJL1fE8hoibVWwg4j/eT2MJL1fE8hoibVWwg4j--3--LASRH.jpg",
+      "title": "Dummy Match",
+      "description": "Dummy Description",
+      "overview": "Dummy overview",
+      "datetime": "2023-08-06 11:00 PM",
+      "stream_url": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8"
+    },
+    {
+      "style": 2,
+      "category": "news",
+      "image": "https://images.nightcafe.studio/jobs/eT2MJL1fE8hoibVWwg4j/eT2MJL1fE8hoibVWwg4j--3--LASRH.jpg",
+      "team_1_logo": "https://images.nightcafe.studio/jobs/eT2MJL1fE8hoibVWwg4j/eT2MJL1fE8hoibVWwg4j--3--LASRH.jpg",
+      "team_2_logo": "https://images.nightcafe.studio/jobs/eT2MJL1fE8hoibVWwg4j/eT2MJL1fE8hoibVWwg4j--3--LASRH.jpg",
+      "title": "Dummy Match",
+      "description": "Dummy Description",
+      "overview": "Dummy overview",
+      "datetime": "2023-08-06 11:00 PM",
+      "stream_url": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8"
+    }
+  ]
+}
