@@ -11,7 +11,7 @@
     "category": [
       {"name": "news", "status":true},
       {"name":"tv", "status":true},
-      {name:"live", "status": true}
+      {"name":"live", "status": true}
     ]
   },
   "channels": [
